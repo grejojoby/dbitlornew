@@ -1,17 +1,17 @@
 {
   "name": "dbit-lor",
-  "homepage": "https://haydencordeiro.github.io/dbitlor/",
+  "homepage": "https://haydencordeiro.github.io/dbitlornew/",
   "version": "1.2.0",
   "description": "DBIT LOR Process",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grejojoby/dbit-lor.git"
+    "url": "git+https://github.com/haydencordeiro/dbitlornew.git"
   },
   "keywords": [
     "react"
   ],
-  "author": "Grejo Joby",
+  "author": "Hayden Cordeiro",
   "license": "MIT",
   "scripts": {
     "predeploy": "npm run build",
