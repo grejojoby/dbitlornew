@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/dbitlornew/static/css/main.d8c48e20.chunk.css",
+    "main.js": "/dbitlornew/static/js/main.d8d76e43.chunk.js",
+    "main.js.map": "/dbitlornew/static/js/main.d8d76e43.chunk.js.map",
+    "runtime-main.js": "/dbitlornew/static/js/runtime-main.890e3ad0.js",
+    "runtime-main.js.map": "/dbitlornew/static/js/runtime-main.890e3ad0.js.map",
+    "static/css/2.e341e3ad.chunk.css": "/dbitlornew/static/css/2.e341e3ad.chunk.css",
+    "static/js/2.24794092.chunk.js": "/dbitlornew/static/js/2.24794092.chunk.js",
+    "static/js/2.24794092.chunk.js.map": "/dbitlornew/static/js/2.24794092.chunk.js.map",
+    "index.html": "/dbitlornew/index.html",
+    "static/css/2.e341e3ad.chunk.css.map": "/dbitlornew/static/css/2.e341e3ad.chunk.css.map",
+    "static/css/main.d8c48e20.chunk.css.map": "/dbitlornew/static/css/main.d8c48e20.chunk.css.map",
+    "static/js/2.24794092.chunk.js.LICENSE.txt": "/dbitlornew/static/js/2.24794092.chunk.js.LICENSE.txt",
+    "static/js/main.d8d76e43.chunk.js.LICENSE.txt": "/dbitlornew/static/js/main.d8d76e43.chunk.js.LICENSE.txt",
+    "static/media/angular.jpg": "/dbitlornew/static/media/angular.b5045666.jpg",
+    "static/media/argon-react.png": "/dbitlornew/static/media/argon-react.d9842dfb.png",
+    "static/media/bootstrap.jpg": "/dbitlornew/static/media/bootstrap.bd712487.jpg",
+    "static/media/all.min.css": "/dbitlornew/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/nucleo.css": "/dbitlornew/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/profile-cover.jpg": "/dbitlornew/static/media/profile-cover.97899245.jpg",
+    "static/media/react.jpg": "/dbitlornew/static/media/react.0e8c9066.jpg",
+    "static/media/sketch.jpg": "/dbitlornew/static/media/sketch.a6af780a.jpg",
+    "static/media/team-1-800x800.jpg": "/dbitlornew/static/media/team-1-800x800.fa5a7ac2.jpg",
+    "static/media/team-2-800x800.jpg": "/dbitlornew/static/media/team-2-800x800.3e08ef14.jpg",
+    "static/media/team-3-800x800.jpg": "/dbitlornew/static/media/team-3-800x800.70911cdd.jpg",
+    "static/media/team-4-800x800.jpg": "/dbitlornew/static/media/team-4-800x800.99c612eb.jpg",
+    "static/media/vue.jpg": "/dbitlornew/static/media/vue.43bd93a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.890e3ad0.js",
+    "static/css/2.e341e3ad.chunk.css",
+    "static/js/2.24794092.chunk.js",
+    "static/css/main.d8c48e20.chunk.css",
+    "static/js/main.d8d76e43.chunk.js"
+  ]
+}
