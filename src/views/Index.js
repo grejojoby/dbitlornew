@@ -57,7 +57,7 @@ const Index = (props) => {
     // console.log(props.token)
     // console.log(`${process.env.API_URL}api/loggedinteachereditapplications/`);
     
-    axios.get(`http://51.11.111.43/api/loggedinusersapplications/`, {
+    axios.get(`https://dbitlor.hayden.co.in/api/loggedinusersapplications/`, {
       headers: {
         'Authorization': `Token ${props.token}`
       }

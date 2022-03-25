@@ -75,7 +75,7 @@ function historyStatusColor(inp) {
   useEffect(() => {
 
     
-    axios.get(`http://51.11.111.43/api/loggedinteachersapplications/`, {
+    axios.get(`https://dbitlor.hayden.co.in/api/loggedinteachersapplications/`, {
       headers: {
         'Authorization': `Token ${props.token}`
       }

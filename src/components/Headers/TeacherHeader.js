@@ -33,7 +33,7 @@ const TeacherHeader = (props) => {
   
   useEffect(() => {
     console.log(props.token,"asf");
-    axios.get(`http://51.11.111.43/api/dashboardstatsteacher/`, {
+    axios.get(`https://dbitlor.hayden.co.in/api/dashboardstatsteacher/`, {
       headers: {
         'Authorization': `Token ${props.token}`
       }

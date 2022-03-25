@@ -11,7 +11,7 @@ const Header = (props) => {
   useEffect(() => {
 
     
-    axios.get(`http://51.11.111.43/api/loggedinusersapplications/`, {
+    axios.get(`https://dbitlor.hayden.co.in/api/loggedinusersapplications/`, {
       headers: {
         'Authorization': `Token ${props.token}`
       }
@@ -39,7 +39,7 @@ const Header = (props) => {
 
 
     };
-    axios.post('http://51.11.111.43/api/generatepdf/', article, { headers })
+    axios.post('https://dbitlor.hayden.co.in/api/generatepdf/', article, { headers })
       .then(
         (response) => {
 

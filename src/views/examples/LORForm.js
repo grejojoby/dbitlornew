@@ -61,7 +61,7 @@ const LORForm = (props) => {
   useEffect(() => {
 
     //   console.log(`Token ${token}`);
-    axios.get(`http://51.11.111.43/api/loggedinuserdetails/`, {
+    axios.get(`https://dbitlor.hayden.co.in/api/loggedinuserdetails/`, {
       headers: {
         'Authorization': `Token ${props.token}`
       }
@@ -85,7 +85,7 @@ const LORForm = (props) => {
   useEffect(() => {
 
     //   console.log(`Token ${token}`);
-    axios.get(`http://51.11.111.43/api/listofdepartments/`, {
+    axios.get(`https://dbitlor.hayden.co.in/api/listofdepartments/`, {
       headers: {
         'Authorization': `Token ${props.token}`
       }
@@ -104,7 +104,7 @@ const LORForm = (props) => {
   useEffect(() => {
 
     //   console.log(`Token ${token}`);
-    axios.get(`http://51.11.111.43/api/listallteachers/`, {
+    axios.get(`https://dbitlor.hayden.co.in/api/listallteachers/`, {
       headers: {
         'Authorization': `Token ${props.token}`
       }
@@ -142,7 +142,7 @@ useEffect(() => {
 
         // 'My-Custom-Header': 'foobar'
       };
-      axios.post('http://51.11.111.43/api/applyforlor/', article, { headers })
+      axios.post('https://dbitlor.hayden.co.in/api/applyforlor/', article, { headers })
         .then(
           (response) => {
             console.log(response.data);

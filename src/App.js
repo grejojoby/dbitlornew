@@ -41,7 +41,7 @@ export default function App() {
       
       console.log("token updated",token)
  
-      axios.get(`http://51.11.111.43/api/loggedinuserdetails/`, {
+      axios.get(`https://dbitlor.hayden.co.in/api/loggedinuserdetails/`, {
         headers: {
           'Authorization': `Token ${token}`
         }
