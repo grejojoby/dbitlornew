@@ -1,0 +1,16 @@
+.rs-steps-item-status-process .rs-steps-item-content {
+    color: #fff;
+}
+
+.rs-steps-item-content {
+    color: #999;
+}
+
+.verticalTimeline {
+    height: 100%;
+
+}
+
+.lorHistoryTable{
+    overflow-y: scroll;
+}
