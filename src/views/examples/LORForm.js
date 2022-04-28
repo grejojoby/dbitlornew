@@ -66,12 +66,14 @@ const LORForm = (props) => {
         'Authorization': `Token ${props.token}`
       }
     })
-      .then((res) => {
+    .then((res) => {
+        console.log(res.data)
         // SetTeachers(res.data);
         // console.log(res.data);
         SetfirstName(res.data.first_name)
         SetlastName(res.data.last_name)
         SetstudentEmail(res.data.email)
+        Setbranch(res.data.dept)
         SetpassoutYear(res.data.yearofpassout)
         SetstudentID(res.data.studentID)
       })
